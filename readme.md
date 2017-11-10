@@ -1,4 +1,4 @@
-#Greating and Salutations!
+# Greating and Salutations!
 
 This the repository for the collective brain of Thaddius Mencer, the creative "genius" behind CubeLab Media.
 
