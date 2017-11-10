@@ -4,7 +4,7 @@ title: Letter to the Crew of UGSA Explorer
 date: 2014-04-01 14:37
 author: tmencer
 comments: true
-categories: [human race, hundreds and thousands, Lab Notes]
+#categories: [human race, hundreds and thousands, Lab Notes]
 ---
 <em><strong>Congratulations, Crew of UGSA Explorer!</strong></em>
 

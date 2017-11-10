@@ -7,7 +7,7 @@ comments: true
 date: 2016-09-07 02:09:01
 tags:
     - 'Dungeons &amp; Dragons'
-categories:
+#categories:
     - live-games
 permalink: /2016/to-dungeon-and-to-dragon
 ---

@@ -9,7 +9,7 @@ tags:
     - graphic novel
     - 'Media &amp; Productions'
     - Nevercenter Silo
-categories:
+#categories:
     - news
 permalink: /2011/a-look-at-the-future
 ---

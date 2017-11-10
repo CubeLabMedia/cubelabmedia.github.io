@@ -8,7 +8,7 @@ date: 2014-04-16 09:04:10
 tags:
     - Bitter Balloons
     - Facebook
-categories:
+#categories:
     - news
 permalink: /2014/whats-new-at-the-lab
 ---

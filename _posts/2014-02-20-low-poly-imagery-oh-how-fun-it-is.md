@@ -4,7 +4,7 @@ title: Low Poly Imagery: Oh how fun it is!
 date: 2014-02-20 16:08
 author: tmencer
 comments: true
-categories: [Lab Notes]
+#categories: [Lab Notes]
 ---
 [caption id="attachment_445" align="aligncenter" width="1920"]<a href="http://www.cubelabmedia.com/wp-content/uploads/2014/02/lowpoly_lake.jpg"><img class=" wp-image-445" title="Fun, Low Poly scene made in Blender" src="http://www.cubelabmedia.com/wp-content/uploads/2014/02/lowpoly_lake.jpg" alt="lowpoly_lake" width="1920" height="1080" /></a> Fun, Low Poly scene made in Blender[/caption]
 <p dir="ltr">The low poly artwork style has become one of the newest fads to hit the 3D world. It’s a faux-illustrative style that uses flat colors and very little heavy detail. It often feels like origami - folded and cut.</p>

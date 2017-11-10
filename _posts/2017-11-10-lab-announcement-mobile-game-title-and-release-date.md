@@ -8,7 +8,7 @@ date: 2014-05-31 11:05:44
 tags:
     - Carmen Sandiego
     - mobile game
-categories:
+#categories:
     - air-aahhh
     - news
 permalink: /2014/lab-announcement-mobile-game-title-and-release-date

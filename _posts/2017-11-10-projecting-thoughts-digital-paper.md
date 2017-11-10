@@ -6,7 +6,7 @@ author: tmencer
 comments: true
 date: 2014-10-31 10:10:31
 tags: [ ]
-categories:
+#categories:
     - news
 permalink: /2014/projecting-thoughts-digital-paper
 image:

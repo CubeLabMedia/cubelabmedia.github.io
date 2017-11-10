@@ -4,7 +4,7 @@ title: Hair progression for Deadland Chronicles Character
 date: 2013-03-23 20:35
 author: tmencer
 comments: true
-categories: [blender, Daz Studio, Deadland Chronicles]
+#categories: [blender, Daz Studio, Deadland Chronicles]
 ---
 I've been struggling on the "hair front" for the graphic novel, Deadland Chronicles, for some time. I've bounced around from using all Blender to Daz Studio to makeHuman ... nothing seemed to work for the longest time.
 

@@ -4,7 +4,7 @@ title: Delays in the air
 date: 2014-06-17 15:09
 author: tmencer
 comments: true
-categories: [Air AAHHH!!!!, Lab Notes]
+#categories: [Air AAHHH!!!!, Lab Notes]
 ---
 Our first experiment, titled <em><strong>'Air AAHHH!!!!</strong></em>' is being delayed a few weeks due to previous engagements. Much is already completely, but there are still things to iron out.  We're disappointed, but still excited to see this reach fruition.
 

@@ -4,7 +4,7 @@ title: Making clothing
 date: 2012-04-04 17:35
 author: tmencer
 comments: true
-categories: [blender, clothing, Daz Studio, Deadland Chronicles]
+#categories: [blender, clothing, Daz Studio, Deadland Chronicles]
 ---
 <a href="http://www.cubelabmedia.com/wp-content/uploads/2012/04/shortshow.png"><img class="aligncenter size-full wp-image-218" alt="shortshow" src="http://www.cubelabmedia.com/wp-content/uploads/2012/04/shortshow.png" width="960" height="540" /></a>
 

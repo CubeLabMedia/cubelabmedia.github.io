@@ -4,7 +4,7 @@ title: It's been quiet, too quiet.
 date: 2014-08-08 07:56
 author: tmencer
 comments: true
-categories: [Lab Notes]
+#categories: [Lab Notes]
 ---
 So we realize that we've been very absent of late. Some may even wonder if we're even working on anything anymore, if we've died, if aliens abducted us and then after being annoyed with us left us stranded on a planet  billions of light years away to battle giant insects to the death.
 

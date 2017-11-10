@@ -4,7 +4,7 @@ title: LabCast Episode #1
 date: 2014-08-01 22:34
 author: tmencer
 comments: true
-categories: [Lab Notes, LabCast]
+#categories: [Lab Notes, LabCast]
 ---
 While we've been quiet, there has been movement behind the scenes. As you wait for more awesomeness from the <em>Lab</em>, give a listen in as I give the first ever "podCast" posted on YouTube!
 

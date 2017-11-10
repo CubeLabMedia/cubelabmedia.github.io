@@ -4,7 +4,7 @@ title: Hello Hydro Game Update
 date: 2013-09-05 12:37
 author: tmencer
 comments: true
-categories: [Lab Notes]
+#categories: [Lab Notes]
 ---
 I've been off and on not really giving much updates to anything I've been working on. Shame on me.
 

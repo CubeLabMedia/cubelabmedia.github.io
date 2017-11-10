@@ -4,7 +4,7 @@ title: Blender Sketch: House
 date: 2012-03-23 15:44
 author: tmencer
 comments: true
-categories: [blender, Deadland Chronicles]
+#categories: [blender, Deadland Chronicles]
 ---
 <a href="http://www.cubelabmedia.com/wp-content/uploads/2012/03/randomhouse3.png"><img class=" wp-image-202 alignleft" alt="randomhouse3" src="http://www.cubelabmedia.com/wp-content/uploads/2012/03/randomhouse3.png" width="576" height="324" /></a>
 

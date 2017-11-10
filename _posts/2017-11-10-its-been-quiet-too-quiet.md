@@ -6,7 +6,7 @@ author: tmencer
 comments: true
 date: 2014-08-08 07:08:46
 tags: [ ]
-categories:
+#categories:
     - news
 permalink: /2014/its-been-quiet-too-quiet
 image:

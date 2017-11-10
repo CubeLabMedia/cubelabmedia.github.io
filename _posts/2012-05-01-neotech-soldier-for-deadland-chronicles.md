@@ -4,7 +4,7 @@ title: NeoTech Soldier for Deadland Chronicles
 date: 2012-05-01 19:48
 author: tmencer
 comments: true
-categories: [Deadland Chronicles]
+#categories: [Deadland Chronicles]
 ---
 <a href="http://www.cubelabmedia.com/wp-content/uploads/2012/05/neotest.png"><img class="aligncenter size-full wp-image-224" alt="neotest" src="http://www.cubelabmedia.com/wp-content/uploads/2012/05/neotest.png" width="1900" height="1068" /></a>
 

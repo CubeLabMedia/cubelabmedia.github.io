@@ -4,7 +4,7 @@ title: Lab Announcement: Mobile game title and release date
 date: 2014-05-31 11:02
 author: tmencer
 comments: true
-categories: [Air AAHHH!!!!, Carmen Sandiego, Lab Notes, mobile game]
+#categories: [Air AAHHH!!!!, Carmen Sandiego, Lab Notes, mobile game]
 ---
 Since games became a household item we've spent uncounted hours pounding on keyboards, gripping joysticks or clutching unwieldy controllers. We've watched PacMan eat white dots, running from ghosts. We've helped defend the world from space invaders. We've found where in the world was Carmen Sandiego. We've fought terrorists, brought down Big Daddy's, run through dark elves and orcs. We played games and delved into these digital worlds without abandon. Sometimes to the dismay of a wife or child or parent, but we played. It was our world, our way.
 

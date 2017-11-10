@@ -6,7 +6,7 @@ author: tmencer
 comments: true
 date: 2014-06-17 03:06:13
 tags: [ ]
-categories:
+#categories:
     - air-aahhh
     - news
 permalink: /2014/delays-air

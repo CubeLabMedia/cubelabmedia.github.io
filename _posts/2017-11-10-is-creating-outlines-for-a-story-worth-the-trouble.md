@@ -7,7 +7,7 @@ comments: true
 date: 2013-06-17 01:06:51
 tags:
     - characters
-categories:
+#categories:
     - writing
 permalink: /2013/is-creating-outlines-for-a-story-worth-the-trouble
 ---

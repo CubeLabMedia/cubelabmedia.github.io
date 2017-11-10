@@ -4,7 +4,7 @@ title: Vaporware: Apologies from the lab
 date: 2014-09-23 09:45
 author: jprice
 comments: true
-categories: [Lab Notes]
+#categories: [Lab Notes]
 ---
 Everybody gets annoyed when a company announces an amazing game, software, or piece of hardware but then never follows through on it. I have backed Kickstarter campaigns myself that have all gone the way of the dodo. We affectionately call this type of product “vaporware”. This is hardware or software that is announced, never sees the light of day, and is never officially canceled. Some of you may now be feeling that way about a few of the announcements coming out of the lab.
 

@@ -4,7 +4,7 @@ title: Projecting Thoughts On Digital Paper
 date: 2014-10-31 10:46
 author: tmencer
 comments: true
-categories: [Lab Notes]
+#categories: [Lab Notes]
 ---
 There are those days where you feel as if you can take the world by storm. Nothing can stop you. The door rips off the hinges as you bolt from your room, heart pumping excitedly.
 

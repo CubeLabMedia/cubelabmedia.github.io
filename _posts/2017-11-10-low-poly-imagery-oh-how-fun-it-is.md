@@ -6,7 +6,7 @@ author: tmencer
 comments: true
 date: 2014-02-20 04:02:59
 tags: [ ]
-categories:
+#categories:
     - news
 permalink: /2014/low-poly-imagery-oh-how-fun-it-is
 image:

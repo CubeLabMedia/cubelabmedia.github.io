@@ -4,7 +4,7 @@ title: Itch: The Dark Deed
 date: 2014-04-17 08:30
 author: tmencer
 comments: true
-categories: [Short Story, Writing]
+#categories: [Short Story, Writing]
 ---
 <p dir="ltr">“Give us yer money, or we’ll slit yer throats!” the leader of the brigands threatened in a low growl. His short sword waving menacingly at two travelers, the blade sharp and gleaming in the sun. His near dozen fellow assailants surrounded their targets and growled their agreements. Brandishing a mismatched assortment of weapons from make-shift clubs to axes to long swords, they readied to pounce hungrily if their leader gave the word.</p>
 <p dir="ltr">The two victims stood side-by-side, and seemed to be exact opposites in attitudes.</p>

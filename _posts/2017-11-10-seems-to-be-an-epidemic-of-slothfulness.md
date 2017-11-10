@@ -6,7 +6,7 @@ author: tmencer
 comments: true
 date: 2015-03-27 02:03:18
 tags: [ ]
-categories:
+#categories:
     - news
 permalink: /2015/seems-to-be-an-epidemic-of-slothfulness
 image:

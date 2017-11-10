@@ -4,7 +4,7 @@ title: Hello, Hydro Game
 date: 2013-04-26 18:26
 author: tmencer
 comments: true
-categories: [Lab Notes]
+#categories: [Lab Notes]
 ---
 <a href="http://www.cubelabmedia.com/wp-content/uploads/2013/04/hydro-test.png"><img class="aligncenter size-full wp-image-311" alt="hydro-test" src="http://www.cubelabmedia.com/wp-content/uploads/2013/04/hydro-test.png" width="960" height="540" /></a>
 

@@ -6,7 +6,7 @@ author: tmencer
 comments: true
 date: 2014-11-17 02:11:07
 tags: [ ]
-categories:
+#categories:
     - news
 permalink: /2014/2014-winter-clean-begins
 image:

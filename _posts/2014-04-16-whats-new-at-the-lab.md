@@ -4,7 +4,7 @@ title: What's new at the lab
 date: 2014-04-16 09:47
 author: tmencer
 comments: true
-categories: [Bitter Balloons, Facebook, Lab Notes]
+#categories: [Bitter Balloons, Facebook, Lab Notes]
 ---
 It's already a quarter through 2014 and there has been little or no news from the lab. It's as if a black hole spontaneously opened and sucked up all the projects, leaving no news or updates!
 

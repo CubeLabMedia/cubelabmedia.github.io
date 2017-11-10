@@ -6,7 +6,7 @@ author: tmencer
 comments: true
 date: 2014-02-21 02:02:04
 tags: [ ]
-categories:
+#categories:
     - news
 permalink: /2014/old-asylum-work-in-progress
 image:

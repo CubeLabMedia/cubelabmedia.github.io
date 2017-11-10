@@ -4,7 +4,7 @@ title: Princes of the Apocalypse
 date: 2016-08-22 11:39
 author: tmencer
 comments: true
-categories: []
+#categories: []
 ---
 [et_pb_section transparent_background="off" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="on" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="off" custom_width_px="1080px" custom_width_percent="80%" make_equal="off" use_custom_gutter="off" fullwidth="on" specialty="off" admin_label="Section" disabled="off"][et_pb_fullwidth_slider show_arrows="off" show_pagination="off" auto="off" auto_speed="7000" auto_ignore_hover="off" parallax="on" parallax_method="off" remove_inner_shadow="off" background_position="default" background_size="default" hide_content_on_mobile="off" hide_cta_on_mobile="off" show_image_video_mobile="off" admin_label="Fullwidth Slider" custom_button="off" button_text_size="20" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0" disabled="off"][et_pb_slide button_link="#" background_image="http://www.cubelabmedia.com/wp-content/uploads/2016/08/Header_PotA.jpg" background_position="center" background_size="cover" background_color="#595959" use_bg_overlay="on" bg_overlay_color="rgba(255,255,255,0.42)" use_text_overlay="off" alignment="center" background_layout="light" allow_player_pause="off" text_border_radius="3" header_font="||||" body_font="||||" custom_button="off" button_font="||||" button_use_icon="default" button_icon_placement="right" button_on_hover="on" disabled="off"]<div class="et_pb_fullwidth_header_container center">
 <div class="header-content-container center">

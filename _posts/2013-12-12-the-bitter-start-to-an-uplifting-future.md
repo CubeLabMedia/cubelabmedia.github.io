@@ -4,7 +4,7 @@ title: The bitter start to an uplifting future
 date: 2013-12-12 14:40
 author: tmencer
 comments: true
-categories: [cooperative game, future game, game addict, Jon Price, Lab Notes]
+#categories: [cooperative game, future game, game addict, Jon Price, Lab Notes]
 ---
 Today we began real work on a future game. We, as in friend, developer and fellow game addict, Jon Price. We met and sketched out and talked and worked out some preliminary specs for our first cooperative game, "Bitter Balloons". Coming soon to Android and iOS devices nearest to you!
 

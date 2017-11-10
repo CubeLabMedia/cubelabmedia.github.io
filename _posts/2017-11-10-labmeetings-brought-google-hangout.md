@@ -6,7 +6,7 @@ author: tmencer
 comments: true
 date: 2014-10-05 02:10:48
 tags: [ ]
-categories:
+#categories:
     - news
     - labmeetings
 permalink: /2014/labmeetings-brought-google-hangout

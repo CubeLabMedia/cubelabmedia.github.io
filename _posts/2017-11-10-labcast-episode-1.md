@@ -6,7 +6,7 @@ author: tmencer
 comments: true
 date: 2014-08-01 10:08:12
 tags: [ ]
-categories:
+#categories:
     - news
     - labcast
 permalink: /2014/labcast-episode-1
