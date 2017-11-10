@@ -8,9 +8,7 @@ date: 2014-04-16 09:04:10
 tags:
     - Bitter Balloons
     - Facebook
-#categories:
-    - news
-permalink: /2014/whats-new-at-the-lab
+feature: whats-new-at-the-lab.jpg
 ---
 It&#8217;s already a quarter through 2014 and there has been little or no news from the lab. It&#8217;s as if a black hole spontaneously opened and sucked up all the projects, leaving no news or updates!
 
@@ -55,7 +53,7 @@ So you see, the lab is still in full effect. However, 2014 has shown some unwant
 Our beakers are burning. The lab is still open.
 
 Scientifically Yours,
-  
+
 Prof. Tadd
-  
+
 _Head Lab Technician  _
