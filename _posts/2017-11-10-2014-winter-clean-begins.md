@@ -6,12 +6,8 @@ author: tmencer
 comments: true
 date: 2014-11-17 02:11:07
 tags: [ ]
-#categories:
-    - news
-permalink: /2014/2014-winter-clean-begins
-image:
-    feature: cleanup.jpg
 ---
+
 Hello, friends! Today, I’d like to announce, we’re officially cleaning up this site. It’s been kind of sparse, as well as unfocused. It’s time we roll up our sleeves and get things moving! We need to get a better focus on what we&#8217;re achieving, and produce more content than you can shake a BBQ shrimp at!
 
 A few categories have been removed. No long are we showing portfolio pieces. When originally planned, CubeLab Media was going to be an emporium of stuff that I (Tadd) did. But as C.L.M. grew, it became less about what I do, and more about what Jon Price and I think up.

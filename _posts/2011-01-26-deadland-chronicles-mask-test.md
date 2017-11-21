@@ -4,7 +4,7 @@ title: Deadland Chronicles Mask Test
 date: 2011-01-26 02:39
 author: tmencer
 comments: true
-#categories: [blender, Chronicles, Deadland Chronicles, Deadland Chronicles Mask Test Software, Pixologic, Sculptris, Software News, Test]
+
 ---
 <a href="http://www.cubelabmedia.com/wp-content/uploads/2011/06/cg-dlcmask1.jpg"><img class="aligncenter size-full wp-image-54" title="cg-dlcmask1" src="http://www.cubelabmedia.com/wp-content/uploads/2011/06/cg-dlcmask1.jpg" alt="" width="600" height="349" /></a>
 
