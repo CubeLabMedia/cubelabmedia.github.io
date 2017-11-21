@@ -6,18 +6,16 @@ author: tmencer
 comments: true
 date: 2014-02-20 04:02:59
 tags: [ ]
-#categories:
-    - news
-permalink: /2014/low-poly-imagery-oh-how-fun-it-is
+
 image:
     feature: lowpoly_lake2.jpg
 ---
 
-  
-  
-  
+
+
+
     Fun, Low Poly scene made in Blender
-  
+
 
 
 

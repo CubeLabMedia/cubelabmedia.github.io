@@ -5,10 +5,7 @@ published: true
 author: tmencer
 comments: true
 date: 2014-09-08 10:09:04
-tags: [ ]
-#categories:
-    - news
-permalink: /2014/beginners-unity-tutorial-works
+
 image:
     feature: pingpong-unity-tutorial-cublabmedia.png
 ---

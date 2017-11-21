@@ -5,10 +5,7 @@ published: true
 author: tmencer
 comments: true
 date: 2015-01-13 12:01:59
-tags: [ ]
-#categories:
-    - news
-permalink: /2015/everyone-go
+
 image:
     feature: wherehavewebeen.png
 ---

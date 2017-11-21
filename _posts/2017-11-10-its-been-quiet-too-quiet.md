@@ -6,9 +6,7 @@ author: tmencer
 comments: true
 date: 2014-08-08 07:08:46
 tags: [ ]
-#categories:
-    - news
-permalink: /2014/its-been-quiet-too-quiet
+
 image:
     feature: tumbleweed.jpg
 ---
@@ -21,16 +19,16 @@ It&#8217;s been a busy summer, that&#8217;s for sure. However, we&#8217;ve been 
 **What does that even mean?**
 
   * _**More LabCasts!**_
-  
+
     You heard right &#8211; MORE LabCasts! We have one under our belt (featuring yours truly) but we want to do more! We&#8217;re planning more!
   * _**New shows!**_
-  
+
     Yes, you read that bulleted point above &#8211; NEW shows. We have so many ideas literally bursting from our heads! It&#8217;s gross! Brain matter everywhere &#8230; clean this up intern!
   * _**Finishing Air Aahhh!!!**_
-  
+
     One of our greatest hopes is to do games. It&#8217;s been a dream of ours since &#8230; well &#8230; remember dinosaurs? Before those guys. _Air Aahhh!!!! is coming!_
   * _**Moar gamez!**_
-  
+
     Right .. more. MORE .. we have a lot to do!
 
 And so many other projects and ideas we&#8217;ve been scheming! This has been a busy summer!
@@ -42,7 +40,7 @@ The next LabCast will soon be ready. One way or the other, it will happen! We&#8
 So, while we may not be very chatty lately, we are moving and shaking!
 
 Until we talk again,
-  
+
 Tadd
-  
+
 Head Lab Technician

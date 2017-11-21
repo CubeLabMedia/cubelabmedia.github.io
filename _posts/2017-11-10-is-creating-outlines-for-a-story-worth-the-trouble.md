@@ -5,11 +5,7 @@ published: true
 author: tmencer
 comments: true
 date: 2013-06-17 01:06:51
-tags:
-    - characters
-#categories:
-    - writing
-permalink: /2013/is-creating-outlines-for-a-story-worth-the-trouble
+
 ---
 As a constant dreamer of stories I have a lot going on in the ol&#8217; brain. Different stories, angles and characters weave themselves through out my sub-conciseness likes ants through the anthill.
 

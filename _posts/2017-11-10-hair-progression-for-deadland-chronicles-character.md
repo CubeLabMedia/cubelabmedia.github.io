@@ -5,12 +5,7 @@ published: true
 author: tmencer
 comments: true
 date: 2013-03-23 08:03:37
-tags:
-    - blender
-    - Daz Studio
-#categories:
-    - deadland-chronicles
-permalink: /2013/hair-progression-for-deadland-chronicles-character
+
 image:
     feature: newhairtest.png
 ---

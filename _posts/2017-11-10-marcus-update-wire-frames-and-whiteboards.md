@@ -6,9 +6,7 @@ author: tmencer
 comments: true
 date: 2015-05-13 11:05:48
 tags: [ ]
-#categories:
-    - marcus
-permalink: /2015/marcus-update-wire-frames-and-whiteboards
+
 image:
     feature: 20150416_124442.jpg
 ---

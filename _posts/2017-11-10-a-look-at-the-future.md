@@ -5,12 +5,7 @@ published: true
 author: tmencer
 comments: true
 date: 2011-07-21 09:07:24
-tags:
-    - graphic novel
-    - 'Media &amp; Productions'
-    - Nevercenter Silo
-#categories:
-    - news
+
 permalink: /2011/a-look-at-the-future
 ---
 CubeLab Media & Productions is about being a creative outlet. A place I, as the artist, can come and post my work and make general updates.
