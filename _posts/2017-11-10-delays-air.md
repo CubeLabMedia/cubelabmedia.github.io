@@ -2,7 +2,7 @@
 layout: post
 title: Delays in the air
 published: true
-author: tmencer
+
 comments: true
 date: 2014-06-17 03:06:13
 

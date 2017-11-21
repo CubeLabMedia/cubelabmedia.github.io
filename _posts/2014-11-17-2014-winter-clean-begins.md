@@ -2,7 +2,7 @@
 layout: post
 title: The 2014 Winter Clean-up begins!
 date: 2014-11-17 14:25
-author: tmencer
+
 comments: true
 #categories: [Lab Notes]
 ---

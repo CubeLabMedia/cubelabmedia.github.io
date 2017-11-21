@@ -2,7 +2,7 @@
 layout: post
 title: Old Asylum - Work In Progress
 date: 2014-02-21 14:07
-author: tmencer
+
 comments: true
 #categories: [Lab Notes]
 ---

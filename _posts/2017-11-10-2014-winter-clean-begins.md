@@ -2,7 +2,7 @@
 layout: post
 title: The 2014 Winter Clean-up begins!
 published: true
-author: tmencer
+
 comments: true
 date: 2014-11-17 02:11:07
 tags: [ ]

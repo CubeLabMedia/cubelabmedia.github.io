@@ -2,7 +2,7 @@
 layout: post
 title: LabMeetings brought to you by Google Hangout
 published: true
-author: tmencer
+
 comments: true
 date: 2014-10-05 02:10:48
 tags: [ ]

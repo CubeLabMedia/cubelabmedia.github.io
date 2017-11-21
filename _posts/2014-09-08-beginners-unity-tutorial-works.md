@@ -2,7 +2,7 @@
 layout: post
 title: Beginner's Unity Tutorial in the Works
 date: 2014-09-08 10:24
-author: tmencer
+
 comments: true
 #categories: [Lab Notes]
 ---

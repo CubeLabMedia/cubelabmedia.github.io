@@ -2,7 +2,7 @@
 layout: post
 title: Hello, Hydro Game
 date: 2013-04-26 18:26
-author: tmencer
+
 comments: true
 #categories: [Lab Notes]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Marcus Update - Wire frames and whiteboards
 date: 2015-05-13 11:12
-author: tmencer
+
 comments: true
 #categories: [Marcus]
 ---

@@ -2,10 +2,8 @@
 layout: post
 title: 'Lab Announcement: Mobile game title and release date'
 published: true
-author: tmencer
 comments: true
 date: 2014-05-31 11:05:44
-
 feature: airaahhh-posterimg.jpg
 ---
 Since games became a household item we&#8217;ve spent uncounted hours pounding on keyboards, gripping joysticks or clutching unwieldy controllers. We&#8217;ve watched PacMan eat white dots, running from ghosts. We&#8217;ve helped defend the world from space invaders. We&#8217;ve found where in the world was Carmen Sandiego. We&#8217;ve fought terrorists, brought down Big Daddy&#8217;s, run through dark elves and orcs. We played games and delved into these digital worlds without abandon. Sometimes to the dismay of a wife or child or parent, but we played. It was our world, our way.

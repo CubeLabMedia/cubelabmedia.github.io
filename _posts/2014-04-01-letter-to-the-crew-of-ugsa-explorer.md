@@ -2,7 +2,7 @@
 layout: post
 title: Letter to the Crew of UGSA Explorer
 date: 2014-04-01 14:37
-author: tmencer
+
 comments: true
 #categories: [human race, hundreds and thousands, Lab Notes]
 ---

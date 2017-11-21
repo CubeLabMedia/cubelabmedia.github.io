@@ -2,7 +2,7 @@
 layout: post
 title: 'Low Poly Imagery: Oh how fun it is!'
 published: true
-author: tmencer
+
 comments: true
 date: 2014-02-20 04:02:59
 tags: [ ]

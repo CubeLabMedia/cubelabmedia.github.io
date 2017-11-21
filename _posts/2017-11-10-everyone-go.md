@@ -2,7 +2,7 @@
 layout: post
 title: Where did everyone go!?
 published: true
-author: tmencer
+
 comments: true
 date: 2015-01-13 12:01:59
 

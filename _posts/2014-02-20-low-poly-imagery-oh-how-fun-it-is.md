@@ -2,7 +2,7 @@
 layout: post
 title: Low Poly Imagery: Oh how fun it is!
 date: 2014-02-20 16:08
-author: tmencer
+
 comments: true
 #categories: [Lab Notes]
 ---

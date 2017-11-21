@@ -2,7 +2,7 @@
 layout: post
 title: "What's new at the lab"
 published: true
-author: tmencer
+
 comments: true
 date: 2014-04-16 09:04:10
 

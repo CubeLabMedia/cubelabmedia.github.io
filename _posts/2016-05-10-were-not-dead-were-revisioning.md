@@ -2,7 +2,7 @@
 layout: post
 title: We're not dead, we're revisioning
 date: 2016-05-10 12:24
-author: tmencer
+
 comments: true
 #categories: [Lab Notes]
 ---

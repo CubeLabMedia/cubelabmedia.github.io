@@ -2,7 +2,7 @@
 layout: post
 title: Projecting Thoughts On Digital Paper
 published: true
-author: tmencer
+
 comments: true
 date: 2014-10-31 10:10:31
 tags: [ ]

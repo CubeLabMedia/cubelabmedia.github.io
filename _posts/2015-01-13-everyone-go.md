@@ -2,7 +2,7 @@
 layout: post
 title: Where did everyone go!?
 date: 2015-01-13 12:16
-author: tmencer
+
 comments: true
 #categories: [Lab Notes]
 ---

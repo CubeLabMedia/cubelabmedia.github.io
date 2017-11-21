@@ -2,7 +2,7 @@
 layout: post
 title: Is creating outlines for a story worth the trouble?
 published: true
-author: tmencer
+
 comments: true
 date: 2013-06-17 01:06:51
 

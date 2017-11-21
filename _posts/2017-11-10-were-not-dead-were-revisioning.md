@@ -2,7 +2,7 @@
 layout: post
 title: "We're not dead, we're revisioning"
 published: true
-author: tmencer
+
 comments: true
 date: 2016-05-10 12:05:17
 

@@ -2,7 +2,7 @@
 layout: post
 title: Blender Quick Sculpt: Alien Head
 date: 2012-05-24 20:25
-author: tmencer
+
 comments: true
 #categories: [blender, creative mode, Lab Notes, Image]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Projecting Thoughts On Digital Paper
 date: 2014-10-31 10:46
-author: tmencer
+
 comments: true
 #categories: [Lab Notes]
 ---

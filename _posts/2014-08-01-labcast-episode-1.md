@@ -2,7 +2,7 @@
 layout: post
 title: LabCast Episode #1
 date: 2014-08-01 22:34
-author: tmencer
+
 comments: true
 #categories: [Lab Notes, LabCast]
 ---

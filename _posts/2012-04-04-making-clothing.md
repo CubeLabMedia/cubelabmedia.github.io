@@ -2,7 +2,7 @@
 layout: post
 title: Making clothing
 date: 2012-04-04 17:35
-author: tmencer
+
 comments: true
 #categories: [blender, clothing, Daz Studio, Deadland Chronicles]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Seems To Be an Epidemic of Slothfulness
 published: true
-author: tmencer
+
 comments: true
 date: 2015-03-27 02:03:18
 tags: [ ]

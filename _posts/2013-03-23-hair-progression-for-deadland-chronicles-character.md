@@ -2,7 +2,7 @@
 layout: post
 title: Hair progression for Deadland Chronicles Character
 date: 2013-03-23 20:35
-author: tmencer
+
 comments: true
 #categories: [blender, Daz Studio, Deadland Chronicles]
 ---

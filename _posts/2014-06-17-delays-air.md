@@ -2,7 +2,7 @@
 layout: post
 title: Delays in the air
 date: 2014-06-17 15:09
-author: tmencer
+
 comments: true
 #categories: [Air AAHHH!!!!, Lab Notes]
 ---

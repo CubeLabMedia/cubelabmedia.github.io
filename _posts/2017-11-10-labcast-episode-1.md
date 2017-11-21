@@ -2,7 +2,7 @@
 layout: post
 title: 'LabCast Episode #1'
 published: true
-author: tmencer
+
 comments: true
 date: 2014-08-01 10:08:12
 tags: [ ]

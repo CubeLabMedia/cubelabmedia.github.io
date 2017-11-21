@@ -2,7 +2,7 @@
 layout: post
 title: "It's been quiet, too quiet."
 published: true
-author: tmencer
+
 comments: true
 date: 2014-08-08 07:08:46
 tags: [ ]

@@ -2,7 +2,7 @@
 layout: post
 title: A look at the future
 published: true
-author: tmencer
+
 comments: true
 date: 2011-07-21 09:07:24
 

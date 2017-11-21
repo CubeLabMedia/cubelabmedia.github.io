@@ -2,7 +2,7 @@
 layout: post
 title: "Beginner's Unity Tutorial in the Works"
 published: true
-author: tmencer
+
 comments: true
 date: 2014-09-08 10:09:04
 

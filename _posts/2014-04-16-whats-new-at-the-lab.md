@@ -2,7 +2,7 @@
 layout: post
 title: What's new at the lab
 date: 2014-04-16 09:47
-author: tmencer
+
 comments: true
 #categories: [Bitter Balloons, Facebook, Lab Notes]
 ---

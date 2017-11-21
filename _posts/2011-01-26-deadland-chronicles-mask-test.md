@@ -2,7 +2,7 @@
 layout: post
 title: Deadland Chronicles Mask Test
 date: 2011-01-26 02:39
-author: tmencer
+
 comments: true
 
 ---

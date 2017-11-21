@@ -2,7 +2,7 @@
 layout: post
 title: Lab Announcement: Mobile game title and release date
 date: 2014-05-31 11:02
-author: tmencer
+
 comments: true
 #categories: [Air AAHHH!!!!, Carmen Sandiego, Lab Notes, mobile game]
 ---

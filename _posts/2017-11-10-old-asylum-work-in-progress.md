@@ -2,7 +2,7 @@
 layout: post
 title: 'Old Asylum - Work In Progress'
 published: true
-author: tmencer
+
 comments: true
 date: 2014-02-21 02:02:04
 tags: [ ]

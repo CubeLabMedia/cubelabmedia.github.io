@@ -2,7 +2,7 @@
 layout: post
 title: Blender test - The Door Render
 date: 2012-03-16 08:08
-author: tmencer
+
 comments: true
 #categories: [blender, Lab Notes]
 ---

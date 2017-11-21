@@ -2,7 +2,7 @@
 layout: post
 title: A look at the future
 date: 2011-07-21 21:19
-author: tmencer
+
 comments: true
 #categories: [graphic novel, Lab Notes, Media &amp; Productions, Nevercenter Silo]
 ---

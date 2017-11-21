@@ -2,7 +2,7 @@
 layout: post
 title: It's been quiet, too quiet.
 date: 2014-08-08 07:56
-author: tmencer
+
 comments: true
 #categories: [Lab Notes]
 ---
