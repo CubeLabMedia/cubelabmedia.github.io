@@ -6,7 +6,7 @@ author: tmencer
 comments: true
 date: 2014-06-17 03:06:13
 
-image:
+
     feature: aereo-aeroplano-airport-7215113-o.jpg
 ---
 Our first experiment, titled _**&#8216;Air AAHHH!!!!**_&#8216; is being delayed a few weeks due to previous engagements. Much is already completely, but there are still things to iron out.  We&#8217;re disappointed, but still excited to see this reach fruition.

@@ -6,7 +6,7 @@ author: tmencer
 comments: true
 date: 2014-02-21 02:02:04
 tags: [ ]
-image:
+
     feature: asylum_2.png
 ---
 I decided to start a new project in Blender today. I found a pretty awesome photo by &#8220;Project Mayhem&#8221; from historical Trans-Allegheny Lunatic Asylum in West Virginia. The picture is really lovely.

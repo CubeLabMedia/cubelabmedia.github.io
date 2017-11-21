@@ -7,7 +7,7 @@ comments: true
 date: 2012-05-01 07:05:18
 tags: [ ]
 
-image:
+
     feature: neotest.png
 ---
 [][1]

@@ -7,7 +7,7 @@ comments: true
 date: 2014-02-20 04:02:59
 tags: [ ]
 
-image:
+
     feature: lowpoly_lake2.jpg
 ---
 

@@ -5,7 +5,7 @@ published: true
 author: jprice
 comments: true
 date: 2014-09-23 09:09:02
-image:
+
     feature: vaporware-cubelabmedia.jpg
 ---
 Everybody gets annoyed when a company announces an amazing game, software, or piece of hardware but then never follows through on it. I have backed Kickstarter campaigns myself that have all gone the way of the dodo. We affectionately call this type of product “vaporware”. This is hardware or software that is announced, never sees the light of day, and is never officially canceled. Some of you may now be feeling that way about a few of the announcements coming out of the lab.

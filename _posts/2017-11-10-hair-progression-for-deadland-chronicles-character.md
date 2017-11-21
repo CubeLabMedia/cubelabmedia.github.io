@@ -6,7 +6,7 @@ author: tmencer
 comments: true
 date: 2013-03-23 08:03:37
 
-image:
+
     feature: newhairtest.png
 ---
 I&#8217;ve been struggling on the &#8220;hair front&#8221; for the graphic novel, Deadland Chronicles, for some time. I&#8217;ve bounced around from using all Blender to Daz Studio to makeHuman &#8230; nothing seemed to work for the longest time.

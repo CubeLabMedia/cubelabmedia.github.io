@@ -6,7 +6,7 @@ author: tmencer
 comments: true
 date: 2015-01-13 12:01:59
 
-image:
+
     feature: wherehavewebeen.png
 ---
 It&#8217;s 2015, and CubeLab Media seems to be M.I.A &#8211; doesn&#8217;t it? The last official post was in November, and according to our LabMeetings (you are watching these, right?) we said we plan on doing more.

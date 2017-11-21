@@ -6,7 +6,7 @@ author: tmencer
 comments: true
 date: 2014-09-08 10:09:04
 
-image:
+
     feature: pingpong-unity-tutorial-cublabmedia.png
 ---
 We&#8217;ve been quiet at the lab for a while. This is because we&#8217;re hard at work on bringing you, Interns, something fun!

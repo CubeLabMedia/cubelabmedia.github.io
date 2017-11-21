@@ -5,7 +5,7 @@ published: true
 author: tmencer
 comments: true
 date: 2016-05-10 12:05:17
-image:
+
     feature: boyitsquiet.jpg
 ---
 Do you hear those crickets? See the tumbleweed rolling by. Realizing it&#8217;s been almost a year since we&#8217;ve had an update, there is only one thing we can do.

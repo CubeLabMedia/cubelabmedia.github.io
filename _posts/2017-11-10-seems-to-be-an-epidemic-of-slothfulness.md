@@ -7,7 +7,7 @@ comments: true
 date: 2015-03-27 02:03:18
 tags: [ ]
 
-image:
+
     feature: slothfulness.jpg
 ---
 Let&#8217;s be honest here. You already knew we&#8217;re all over the map. It&#8217;s not like this is new.

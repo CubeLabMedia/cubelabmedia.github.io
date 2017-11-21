@@ -7,7 +7,7 @@ comments: true
 date: 2014-08-08 07:08:46
 tags: [ ]
 
-image:
+
     feature: tumbleweed.jpg
 ---
 So we realize that we&#8217;ve been very absent of late. Some may even wonder if we&#8217;re even working on anything anymore, if we&#8217;ve died, if aliens abducted us and then after being annoyed with us left us stranded on a planet  billions of light years away to battle giant insects to the death.

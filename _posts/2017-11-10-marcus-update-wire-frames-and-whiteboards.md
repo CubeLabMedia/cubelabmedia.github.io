@@ -7,7 +7,7 @@ comments: true
 date: 2015-05-13 11:05:48
 tags: [ ]
 
-image:
+
     feature: 20150416_124442.jpg
 ---
 We&#8217;re not afraid to admit that we&#8217;re pretty new to this game development realm. We&#8217;re web developers and designers. It&#8217;s a whole new beast, creating a video game.
