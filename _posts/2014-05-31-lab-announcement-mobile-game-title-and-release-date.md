@@ -10,7 +10,7 @@ Since games became a household item we've spent uncounted hours pounding on keyb
 
 So, it is with great excitement that we here at CubeLab Media announce our first game: <em><strong>Air AAHHH!!!!</strong></em>
 
-<em><strong><img class="aligncenter size-full wp-image-503" src="http://www.cubelabmedia.com/wp-content/uploads/2014/05/airaahhh-posterimg.jpg" alt="Air AAHHH!!! Coming soon" width="1024" height="923" /></strong></em>
+<em><strong><img class="aligncenter size-full wp-image-503" src="/assets/2014/05/airaahhh-posterimg.jpg" alt="Air AAHHH!!! Coming soon" width="1024" height="923" /></strong></em>
 
 This game is a simple, mobile game that will be available tentative by the <span style="text-decoration: underline;">end of June</span>. Starting on Android devices and within browsers, we hope to move it into iOS devices shortly after.
 

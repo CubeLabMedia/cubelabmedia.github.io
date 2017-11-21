@@ -5,7 +5,7 @@ date: 2009-06-25 19:50
 
 comments: true
 ---
-<a href="http://www.cubelabmedia.com/wp-content/uploads/2011/06/lastflightofthedead-1.jpg"><img class="aligncenter size-full wp-image-25" title="lastflightofthedead-1" src="http://www.cubelabmedia.com/wp-content/uploads/2011/06/lastflightofthedead-1.jpg" alt="" width="600" height="600" /></a>
+<a href="/assets/2011/06/lastflightofthedead-1.jpg"><img class="aligncenter size-full wp-image-25" title="lastflightofthedead-1" src="/assets/2011/06/lastflightofthedead-1.jpg" alt="" width="600" height="600" /></a>
 
 &nbsp;
 

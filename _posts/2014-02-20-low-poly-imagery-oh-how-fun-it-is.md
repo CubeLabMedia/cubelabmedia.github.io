@@ -6,7 +6,7 @@ date: 2014-02-20 16:08
 comments: true
 #categories: [Lab Notes]
 ---
-[caption id="attachment_445" align="aligncenter" width="1920"]<a href="http://www.cubelabmedia.com/wp-content/uploads/2014/02/lowpoly_lake.jpg"><img class=" wp-image-445" title="Fun, Low Poly scene made in Blender" src="http://www.cubelabmedia.com/wp-content/uploads/2014/02/lowpoly_lake.jpg" alt="lowpoly_lake" width="1920" height="1080" /></a> Fun, Low Poly scene made in Blender[/caption]
+[caption id="attachment_445" align="aligncenter" width="1920"]<a href="/assets/2014/02/lowpoly_lake.jpg"><img class=" wp-image-445" title="Fun, Low Poly scene made in Blender" src="/assets/2014/02/lowpoly_lake.jpg" alt="lowpoly_lake" width="1920" height="1080" /></a> Fun, Low Poly scene made in Blender[/caption]
 <p dir="ltr">The low poly artwork style has become one of the newest fads to hit the 3D world. It’s a faux-illustrative style that uses flat colors and very little heavy detail. It often feels like origami - folded and cut.</p>
 <p dir="ltr">I actually have fallen into a fascination with this method. It’s inviting. It has the ability to tell a story, but leave enough to supposition. There is a quirky, playful feel that just appeals to my imagination.</p>
 <p dir="ltr">Recently I created a fun little scene using <a href="http://www.blender.org" target="_blank">Blender</a>. It took me about an hour to model, texture and render the scene which is really quick. The above scene is simply titled “Low Poly Scene”. I started off following a tutorial and quickly abandoned to take it in a different direction. The final results were better than I anticipated.</p>

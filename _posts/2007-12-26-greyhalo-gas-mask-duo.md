@@ -5,7 +5,7 @@ date: 2007-12-26 01:36
 
 comments: true
 ---
-<a href="http://www.cubelabmedia.com/wp-content/uploads/2011/06/gfx-gasmaskduo.jpg"><img class="aligncenter size-full wp-image-59" title="gfx-gasmaskduo" src="http://www.cubelabmedia.com/wp-content/uploads/2011/06/gfx-gasmaskduo.jpg" alt="" width="600" height="395" /></a>
+<a href="/assets/2011/06/gfx-gasmaskduo.jpg"><img class="aligncenter size-full wp-image-59" title="gfx-gasmaskduo" src="/assets/2011/06/gfx-gasmaskduo.jpg" alt="" width="600" height="395" /></a>
 
 <strong>Software</strong>: Photoshop
 
