@@ -2,9 +2,8 @@
 layout: post
 title: A look at the future
 date: 2011-07-21 21:19
-
 comments: true
-#categories: [graphic novel, Lab Notes, Media &amp; Productions, Nevercenter Silo]
+
 ---
 CubeLab Media &amp; Productions is about being a creative outlet. A place I, as the artist, can come and post my work and make general updates.
 
