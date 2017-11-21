@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blender Sketch: House
+title: Blender Sketch - House
 date: 2012-03-23 15:44
 comments: true
 #categories: [blender, Deadland Chronicles]

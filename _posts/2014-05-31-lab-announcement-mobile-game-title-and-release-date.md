@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab Announcement: Mobile game title and release date
+title: Lab Announcement - Mobile game title and release date
 date: 2014-05-31 11:02
 
 comments: true

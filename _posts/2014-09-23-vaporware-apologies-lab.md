@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vaporware: Apologies from the lab
+title: Vaporware - Apologies from the lab
 date: 2014-09-23 09:45
 author: jprice
 comments: true

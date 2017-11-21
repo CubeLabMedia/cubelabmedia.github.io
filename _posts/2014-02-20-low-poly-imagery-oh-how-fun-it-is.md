@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Low Poly Imagery: Oh how fun it is!
+title: Low Poly Imagery - Oh how fun it is!
 date: 2014-02-20 16:08
 
 comments: true
