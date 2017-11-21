@@ -6,9 +6,6 @@ author: tmencer
 comments: true
 date: 2014-02-21 02:02:04
 tags: [ ]
-#categories:
-    - news
-permalink: /2014/old-asylum-work-in-progress
 image:
     feature: asylum_2.png
 ---
@@ -21,44 +18,40 @@ I started by examining the image for a while. There is a lot of little details t
 This is a work in progress, and so far I&#8217;m enjoying the progress.
 
 
-  
-    
-      
-    
-    
-    
+
+
+
+
+
+
       The Trans-Allegheny Lunatic Asylum by Project Mayhem
-    
-  
-  
-  
-    
-      
-    
-    
-    
+
+
+
+
+
+
+
+
+
       The Trans-Allegheny Lunatic Asylum &#8211; Work In Progress
-    
-  
-  
-  
-    
-      
-    
-    
-    
+
+
+
+
+
+
+
+
+
       The Trans-Allegheny Lunatic Asylum wireframes
-    
-  
-  
-  
-    
-      
-    
-    
-    
+
+
+
+
+
+
+
+
+
       The Trans-Allegheny Lunatic Asylum wireframes
-    
-  
-  
-  

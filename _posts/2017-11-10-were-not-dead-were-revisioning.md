@@ -5,10 +5,6 @@ published: true
 author: tmencer
 comments: true
 date: 2016-05-10 12:05:17
-tags: [ ]
-#categories:
-    - news
-permalink: /2016/were-not-dead-were-revisioning
 image:
     feature: boyitsquiet.jpg
 ---

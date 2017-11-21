@@ -6,9 +6,7 @@ author: tmencer
 comments: true
 date: 2012-05-01 07:05:18
 tags: [ ]
-#categories:
-    - deadland-chronicles
-permalink: /2012/neotech-soldier-for-deadland-chronicles
+
 image:
     feature: neotest.png
 ---

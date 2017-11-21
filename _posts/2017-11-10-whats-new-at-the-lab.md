@@ -5,9 +5,7 @@ published: true
 author: tmencer
 comments: true
 date: 2014-04-16 09:04:10
-tags:
-    - Bitter Balloons
-    - Facebook
+
 feature: whats-new-at-the-lab.jpg
 ---
 It&#8217;s already a quarter through 2014 and there has been little or no news from the lab. It&#8217;s as if a black hole spontaneously opened and sucked up all the projects, leaving no news or updates!

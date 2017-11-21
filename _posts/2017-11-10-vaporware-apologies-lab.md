@@ -5,10 +5,6 @@ published: true
 author: jprice
 comments: true
 date: 2014-09-23 09:09:02
-tags: [ ]
-#categories:
-    - news
-permalink: /2014/vaporware-apologies-lab
 image:
     feature: vaporware-cubelabmedia.jpg
 ---
