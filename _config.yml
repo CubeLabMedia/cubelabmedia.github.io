@@ -16,7 +16,7 @@
 title: CubeLab Media
 webowner: Thaddius Mencer
 email: thaddius@cubelabmedia.com
-description: From the mind of Thaddius Mencer | Creative writer, video gamer, blogger, Dungeons & Dragons player, multi-hat wearer, husband, father. Fairly nice guy.
+description: From the mind of Thaddius Mencer <br> Creative writer, video gamer, blogger, Dungeons & Dragons player, multi-hat wearer, husband, father. Fairly nice guy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cubelabmedia.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: taddmencer
@@ -26,10 +26,8 @@ social:
   links:
     - https://twitter.com/taddmencer
     - https://www.linkedin.com/in/taddmencer/
-    - https://github.com/taddmencer
-    - https://plus.google.com/u/0/+TaddMencer
 
-author: thaddius
+author: Thaddius
 
 
 # Build settings
