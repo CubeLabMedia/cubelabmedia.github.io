@@ -4,6 +4,7 @@ title: Seems To Be an Epidemic of Slothfulness
 date: 2015-03-27 14:00
 
 comments: true
+featured: 2015/03/slothfulness.png
 #categories: [Lab Notes]
 ---
 Let's be honest here. You already knew we're all over the map. It's not like this is new.
