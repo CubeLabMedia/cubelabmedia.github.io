@@ -4,9 +4,9 @@ title: Making clothing
 date: 2012-04-04 17:35
 
 comments: true
+feature: shortshow.png
 #categories: [blender, clothing, Daz Studio, Deadland Chronicles]
 ---
-<a href="/assets/2012/04/shortshow.png"><img class="aligncenter size-full wp-image-218" alt="shortshow" src="/assets/2012/04/shortshow.png" width="960" height="540" /></a>
 
 I've been working on Deadland Chronicles, a graphic novel make in CG. The two programs I'll be using are Blender and Daz Studio.
 

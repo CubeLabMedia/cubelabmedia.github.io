@@ -12,4 +12,4 @@ The game is planning on being released initially for Android devices and in time
 
 In the mean time, please enjoy this delightful track by musician <a href="http://ryosa.com" target="_blank">Henrik Ryosa</a>:
 
-[youtube http://www.youtube.com/watch?v=3Idn0QDZ7OY]
+{% include youtube.html id="3Idn0QDZ7OY" %}

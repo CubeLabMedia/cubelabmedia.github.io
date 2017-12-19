@@ -5,8 +5,8 @@ date: 2012-05-24 20:25
 
 comments: true
 #categories: [blender, creative mode, Lab Notes, Image]
+feature: headsculpt.png
 ---
-<a href="/assets/2012/05/headsculpt.png"><img class="aligncenter size-full wp-image-228" alt="headsculpt" src="/assets/2012/05/headsculpt.png" width="960" height="540" /></a>
 
 Ok, I decided to start doing some "quick sculpts" to try and get myself back into the creative mode.
 

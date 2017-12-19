@@ -12,4 +12,4 @@ It was an experiment. And while it was rife with issues from the start, we mana
 
 So, please enjoy!
 
-[creativ_media type="youtube" url="http://www.youtube.com/watch?v=y040il2dkro"]
+{% include youtube.html id="y040il2dkro" %}
