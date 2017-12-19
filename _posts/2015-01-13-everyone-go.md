@@ -4,6 +4,7 @@ title: Where did everyone go!?
 date: 2015-01-13 12:16
 
 comments: true
+feature: wherehavewebeen.png
 #categories: [Lab Notes]
 ---
 It's 2015, and CubeLab Media seems to be M.I.A - doesn't it? The last official post was in November, and according to our <a href="https://www.youtube.com/playlist?list=PLAUwg6U-j1vJ5qRzLddd3jodWv-v5EypQ" target="_blank">LabMeetings</a> (you are watching these, right?) we said we plan on doing more.

@@ -2,21 +2,34 @@
 layout: default
 ---
 <article class="post card" itemscope itemtype="http://schema.org/BlogPosting">
- <div class="card-content">
-   <div class="feature-image"><img src="/assets/featured-image/{{ page.feature }}"></div>
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
-      <br/>
-      {% if site.author %}
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}
-    </p>
-  </header>
+  <div class="card-content">
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
+    {% if page.feature %}
+    <div class="feature-image">
+      <img src="/assets/featured-image/{{ page.feature }}" alt="{{ site.title }} | {{ page.title }}">
+    </div>
+    {% endif %}
+    
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">
+      {{ page.title }}
+    </h1>
+      <p class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: "%b %-d, %Y" }}
+      </time>
+        <br/> {% if site.author %}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span itemprop="name">
+            {{ page.author }}
+          </span>
+        </span>
+        {% endif %}
+      </p>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+      {{ content }}
+    </div>
   </div>
-</div>
 </article>

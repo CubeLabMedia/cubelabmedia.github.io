@@ -4,6 +4,7 @@ title: We're not dead, we're revisioning
 date: 2016-05-10 12:24
 comments: true
 categories: [Lab Notes]
+feature: boyitsquiet.jpg
 ---
 Do you hear those crickets? See the tumbleweed rolling by. Realizing it's been almost a year since we've had an update, there is only one thing we can do.
 
