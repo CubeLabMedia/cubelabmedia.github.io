@@ -19,24 +19,25 @@ email: thaddius@cubelabmedia.com
 description: From the mind of Thaddius Mencer <br> Creative writer, video gamer, blogger, Dungeons & Dragons player, multi-hat wearer, husband, father. Fairly nice guy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cubelabmedia.com" # the base hostname & protocol for your site, e.g. http://example.com
+author: Thaddius
 twitter_username: taddmencer
 
 social:
   name: Thaddius Mencer | CubeLab Media
   links:
     - https://twitter.com/taddmencer
-    - https://www.linkedin.com/in/taddmencer/
+    - https://www.facebook.com/cubelabmedia
 
-author: Thaddius
+
 
 
 # Build settings
 markdown: kramdown
 gems:
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-youtube
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
