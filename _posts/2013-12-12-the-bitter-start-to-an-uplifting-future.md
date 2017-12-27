@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The bitter start to an uplifting future
-date: 2013-12-12 14:40
+#date: 2013-12-12 14:40
 
 comments: true
 #categories: [cooperative game, future game, game addict, Jon Price, Lab Notes]
