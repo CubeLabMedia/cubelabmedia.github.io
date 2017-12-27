@@ -16,7 +16,7 @@ layout: default
     </h1>
       <p class="post-meta">
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: "%b %-d, %Y" }}
+        {{ page.date | date: "%b %-d, %Y" }} : {{ page.categories}}
       </time>
         <br/> {% if site.author %}
         <span itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -31,7 +31,7 @@ layout: default
     <div class="post-content" itemprop="articleBody">
       {{ content }}
     </div>
-    
+
 <!-- Start Disqus -->
 {% if page.comments %}
     <div id="disqus_thread"></div>
