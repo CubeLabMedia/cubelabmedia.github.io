@@ -2,10 +2,9 @@
 layout: post
 title: Low Poly Imagery - Oh how fun it is!
 date: 2014-02-20 16:08
-
 comments: true
 feature: lowpoly_lake.jpg
-#categories: [Lab Notes]
+categories: [Lab Notes, creative mode]
 ---
 The low poly artwork style has become one of the newest fads to hit the 3D world. It’s a faux-illustrative style that uses flat colors and very little heavy detail. It often feels like origami - folded and cut.
 

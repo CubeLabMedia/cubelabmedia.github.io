@@ -2,7 +2,6 @@
 layout: post
 title: Seems To Be an Epidemic of Slothfulness
 date: 2015-03-27 14:00
-
 comments: true
 feature: slothfulness.jpg
 categories: [Lab Notes]

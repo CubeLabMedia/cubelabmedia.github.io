@@ -2,10 +2,9 @@
 layout: post
 title: Old Asylum - Work In Progress
 date: 2014-02-21 14:07
-
 comments: true
 feature: asylum_wip_render.jpg
-#categories: [Lab Notes]
+categories: [Lab Notes]
 ---
 I decided to start a new project in Blender today. I found a pretty awesome photo by "Project Mayhem" from historical Trans-Allegheny Lunatic Asylum in West Virginia. The picture is really lovely.
 

@@ -2,9 +2,8 @@
 layout: post
 title: Beginner's Unity Tutorial in the Works
 date: 2014-09-08 10:24
-
 comments: true
-#categories: [Lab Notes]
+categories: [Lab Notes]
 ---
 We've been quiet at the lab for a while. This is because we're hard at work on bringing you, Interns, something fun!
 

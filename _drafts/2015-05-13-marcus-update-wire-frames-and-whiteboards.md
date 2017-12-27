@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Marcus Update - Wire frames and whiteboards
-#date: 2015-05-13 11:12
-
+date: 2015-05-13 11:12
 comments: true
 feature: 20150416_124442.jpg
-#categories: [Marcus]
+categories: [Marcus]
 ---
 We're not afraid to admit that we're pretty new to this game development realm. We're web developers and designers. It's a whole new beast, creating a video game.
 

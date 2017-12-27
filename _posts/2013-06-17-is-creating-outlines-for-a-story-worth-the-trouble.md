@@ -2,9 +2,8 @@
 layout: post
 title: Is creating outlines for a story worth the trouble?
 date: 2013-06-17 13:39
-
 comments: true
-#categories: [characters, Writing]
+categories: [characters, Writing]
 ---
 As a constant dreamer of stories I have a lot going on in the ol' brain. Different stories, angles and characters weave themselves through out my sub-conciseness likes ants through the anthill.
 
