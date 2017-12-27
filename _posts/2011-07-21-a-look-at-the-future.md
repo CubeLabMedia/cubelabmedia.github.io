@@ -3,7 +3,6 @@ layout: post
 title: A look at the future
 date: 2011-07-21 21:19
 comments: true
-
 ---
 CubeLab Media &amp; Productions is about being a creative outlet. A place I, as the artist, can come and post my work and make general updates.
 
@@ -17,6 +16,6 @@ My two main projects for the coming future are "<a href="http://www.facebook.com
 
 <strong>Hunter's Lineage </strong> is a written story that will be released as a digital download as a monthly serial. Each release will be sold for on the Amazon marketplace, Barnes &amp; Noble and Apple Store. It's not a novel, it's a serial. It's an ongoing series.
 
-These will, hopefully, be my focus for projects in the near future taking on little extra. I will also be blogging on my personal blog <a href="http://www.taddmencer.com " target="_blank">www.taddmencer.com</a> regularly.
+These will, hopefully, be my focus for projects in the near future taking on little extra. I will also be blogging on my personal blog <a href="http://www.taddmencer.com " target="_blank">www.taddmencer.com</a> regularly. Once it's no longer pointing at LinkedIn that is. 
 
 That is all. Move along now.

@@ -4,7 +4,6 @@ title: The 2014 Winter Clean-up begins!
 date: 2014-11-17 14:25
 comments: true
 feature: cleanup.jpg
-categories: [Lab Notes]
 ---
 Hello, friends! Today, I’d like to announce, we’re officially cleaning up this site. It’s been kind of sparse, as well as unfocused. It’s time we roll up our sleeves and get things moving! We need to get a better focus on what we're achieving, and produce more content than you can shake a BBQ shrimp at!
 

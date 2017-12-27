@@ -3,7 +3,6 @@ layout: post
 title: Life does it's thing
 date: 2017-11-27 12:24
 comments: true
-categories: [Lab Notes]
 ---
 
 If you've not already realized it, CubeLab Media has been dead in the water for over a year. Not a peep other than maybe a few Twitter posts/retweets. And I admit, that's kind of a dink move. Especially for anyone who was watching the Lab Meetings, or reading about projects.
@@ -36,4 +35,4 @@ Here's the thing: I need to do this. I can't sit around and stare at a screen wi
 
 I may not be working on the next big video game. but I need to start doing *something* or I fear I'll crumble like the drying autumn leaves.
 
-So let's build new worlds. Together. 
+So let's build new worlds. Together.

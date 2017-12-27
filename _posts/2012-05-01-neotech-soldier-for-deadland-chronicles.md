@@ -3,7 +3,6 @@ layout: post
 title: NeoTech Soldier for Deadland Chronicles
 date: 2012-05-01 19:48
 comments: true
-categories: [Deadland Chronicles]
 feature: neotest.png
 ---
 
