@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Is this the year?
+title:Is this the year
 date: 2018-01-23
 comments: true
 Feature: 2018-is-this-the-year.jpg
