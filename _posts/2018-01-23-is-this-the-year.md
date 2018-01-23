@@ -1,9 +1,9 @@
 ---
 layout: post
-title:Is this the year?
+title: Is this the year?
 date: 2018-01-23
 comments: true
-Feature: 2018-is-this-the-year.jpg
+feature: 2018-is-this-the-year.jpg
 ---
 
 Often we look at the future and wonder what’s in store. We daydream about what is to come. Whether it’s how we look physically, what our bank account shows, or what home we live in. We sit back and wonder how it would taste to be eating high priced steak for breakfast, or place the latest game console on a 4k 70” Samsung&trade; TV. 
