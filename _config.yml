@@ -64,10 +64,6 @@ prose:
         field:
           element: "text"
           label: "title"
-      - name: "date"
-          field:
-            element: "hidden"
-            value: CURRENT_DATETIME
       - name: "comments"
           element: "multiselect"
           label: "Enable/Disable Comments"
