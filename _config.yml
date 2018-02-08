@@ -73,7 +73,13 @@ prose:
           placeholder: "Image path (relative to /assets/featured-image/)"
           alterable: true
       - name: "comments"
+        field:
           element: "text"
           label: "Enable/Disable Comments"
+          placeholder: "Select (default Enabled)"
           value: "true"
-          alterable: true
+          options:
+            - name: "Enable"
+              value: "true"
+            - name: "Disable"
+              value: "false"
