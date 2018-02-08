@@ -63,12 +63,17 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "title"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "feature"
+        field:
+          element: "text"
+          label: "Add Feature Image to Post"
+          placeholder: "Image path (relative to /assets/featured-image/)"
+          alterable: true
       - name: "comments"
-          element: "multiselect"
+          element: "text"
           label: "Enable/Disable Comments"
-          options:
-            - name: "Enable"
-              value: "true"
-            - name: "Disable"
-              value: "false"
+          value: "true"
+          alterable: true
