@@ -62,6 +62,17 @@
     }
 }
 
+.navigation {
+  background: rgba(0,0,0,0.5);
+  
+  ul {
+    list-style-type:none;
+    
+    li{
+      display: inline;
+  }
+}
+  
 .page-content{
     margin: $spacing-unit auto;
     width: 980px;
