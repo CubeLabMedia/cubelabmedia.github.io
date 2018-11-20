@@ -70,6 +70,15 @@
     
     li{
       display: inline;
+      a {
+        display: inline-block;
+        padding: 10px;
+        color: #f5f5f5;
+        text-decoration: none;
+        &:hover {
+          background: rgba(128,128,128,0.3);
+        }
+      }
     }
   }
 }
