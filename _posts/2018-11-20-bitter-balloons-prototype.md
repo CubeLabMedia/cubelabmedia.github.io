@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: 'true'
-published: false
+published: true
 title: Bitter Balloons Prototype
 feature: bitter-balloons-prototype.jpg
 ---
