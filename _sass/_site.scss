@@ -189,12 +189,11 @@
     font-size: 1.2rem;
     padding: 0.5em 0 3em;
     font-weight: 300;
-  a {
+  
+  .email {
     color: #f5f5f5;
-    &:hover {
-      color: #EF6C00;
-    }
   }
+  
 }
 
 @media (max-width: 1050px) {
