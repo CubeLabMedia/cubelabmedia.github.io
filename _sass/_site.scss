@@ -163,17 +163,25 @@
 
 .post{
     .card-content{
-            padding: 80px 20px;
+            padding: 25px 20px;
 
 
     }
 }
+
 .feature-image {
   img {
     width: 100%;
 
   }
 }
+
+.post-content {
+  margin-bottom: 3em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid #333;
+}
+
 .footer-heading{
     display:block;
     text-align: center;
