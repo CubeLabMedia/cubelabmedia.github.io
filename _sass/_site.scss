@@ -190,13 +190,14 @@
     padding: 0.5em 0 3em;
     font-weight: 300;
   
-  a {
-    color: #f5f5f5;
-    text-decoration: none;
-    
-    &:hover {
-      color: $brand-color;
-  }
+    a {
+      color: #f5f5f5;
+      text-decoration: none;
+
+      &:hover {
+        color: $brand-color;
+      }
+    }
   
 }
 
