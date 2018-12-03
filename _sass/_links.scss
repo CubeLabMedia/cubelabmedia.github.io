@@ -3,11 +3,15 @@
 ------------------------------------------------------------*/
 .post-content a {
     position: relative;
+    padding: 5px;
     color: #2a92ea;
     text-decoration: none;
+    background-color: #dfdfdf;
+    border-radius: 3px;
 
     &:hover {
       color: #007700;
+      border-radius: 0px;
 
       &:before {
         visibility: visible;
