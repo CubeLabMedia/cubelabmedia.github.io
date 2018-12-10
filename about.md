@@ -24,24 +24,9 @@ So what is the real version? Who is Tadd Mencer, really?
 
 I’m a creative developer who has worn many hats in his professional career. If I was to list them out ... well, let’s list some out in no particular order!
 
-|
-|-----------------|-------------------|---------------------|------------|
-| Creative Writer | Project Manager | Print Manager       | Designer   |
-|-----------------|-------------------|---------------------|------------|
-| Game Designer   | Marketing Manager | Front-End Developer | IT Support |
+I wear hats, many hats. I’m what people call a generalist, or “jack of all trades”. I can do many things, which has in the past made me valuable to many companies. I can relate to many departments, which has enabled me to manage large teams from creative to technical and understand where they all stand.
 
-The list could go on to be more nitty-gritty, but you get the point. I wear
-hats, many hats. I’m what people call a generalist, or “jack of all trades”. I
-can do many things, which has in the past made me valuable to many companies. I
-can relate to many departments, which has enabled me to manage large teams from
-creative to technical and understand where they all stand.
-
-I’m a father of three *awesome* boys, and married to a *fantastically,
-wonderful* woman since April 22, 2000. I am a member of [Rush Creek Bible
-Church](http://rushcreekbiblechurch.org/). Some may say that I’m gaming fanatic.
-Most would say I’m an all around nerdy guy. I’m an introvert, but you get me
-one-on-one … whoa Nelly hold on to your biscuit basket! We got a bona fide
-conversation!
+I’m a father of three *awesome* boys, and married to a *fantastically, wonderful* woman since April 22, 2000. Some may say that I’m gaming fanatic. Most would say I’m an all around nerdy guy. I’m an introvert, but you get me one-on-one … whoa Nelly hold on to your biscuit basket! We got a bona fide conversation!
 
 I am Tadd.
 
