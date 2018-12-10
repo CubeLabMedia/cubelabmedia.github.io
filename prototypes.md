@@ -4,4 +4,4 @@ title: Prototypes
 permalink: /prototypes/
 ---
 
-Coming soon.
+[!(http://cubelabmedia.com/assets/featured-image/bitter-balloons-prototype.jpg "Bitter Balloons")](http://cubelabmedia.com/games/bitterballoons)
