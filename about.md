@@ -22,11 +22,15 @@ Naturally, that wasn’t used. A much more professional and a business-like text
 
 So what is the real version? Who is Tadd Mencer, really?
 
-I’m a creative developer who has worn many hats in his professional career. If I was to list them out ... well, let’s list some out in no particular order!
+I’m a creative developer who has worn many hats in his professional career. If I was to list them out ... well, let’s let's just say this would be a very boring list!
 
 I wear hats, many hats. I’m what people call a generalist, or “jack of all trades”. I can do many things, which has in the past made me valuable to many companies. I can relate to many departments, which has enabled me to manage large teams from creative to technical and understand where they all stand.
 
-I’m a father of three *awesome* boys, and married to a *fantastically, wonderful* woman since April 22, 2000. Some may say that I’m gaming fanatic. Most would say I’m an all around nerdy guy. I’m an introvert, but you get me one-on-one … whoa Nelly hold on to your biscuit basket! We got a bona fide conversation!
+I’m a father of three *awesome* boys, and married to a *fantastically, wonderful* woman since April 22, 2000. 
+
+Most would say I’m an all around nerdy guy. I’m an introvert, but you get me one-on-one … whoa Nelly hold on to your biscuit basket! We got a bona fide conversation!
+
+I love all things fantasy and adventure. So yes, I love playing Dungeons & Dragons, video games (particularly games with great story), and table top games. 
 
 I am Tadd.
 
