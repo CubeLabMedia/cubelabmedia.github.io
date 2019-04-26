@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: 'true'
-published: false
+published: true
 title: Building a Game
 feature: building-a-game-cubelabmedia-roblox.jpg
 ---
