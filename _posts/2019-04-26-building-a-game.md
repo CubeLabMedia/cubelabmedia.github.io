@@ -10,7 +10,7 @@ In the recent weeks, Samurai Owl and I (Thaddius) have been working on a game. A
 We're making a gave in [Roblox](http://roblox.com). 
 
 ### I know what you may be thinking.
-_Roblox? Isn't that the little kid Lego wanna-be thing? _
+*Roblox? Isn't that the little kid Lego wanna-be thing?*
 
 Well, yes. In a way. At least that's what I thought too. And when the menagerie (my kids) wanted to get into it, I naturally felt it was my fatherly duty to get into it as well. Play the games my kids are playing, make sure it's safe and all that.
 
