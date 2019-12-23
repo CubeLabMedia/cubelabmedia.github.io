@@ -8,7 +8,7 @@ At a previous job, I was asked to provide a bio that could be given to clients. 
 
 Since my tendency is to be a fun, silly guy I decided to first give a bio that suited my personality before one that suited my actual job description.
 
->   **Tadd Mencer – Fire Lord**  
+>   **Thaddius – Fire Lord**  
 >   Born from the molten lava of a live volcano. His heart beats to the drums of
 >   a thousand eager warriors. In the thunder is his voice, commanding his
 >   legions. Beware the might of his great arms that lash out like lightning.
@@ -20,7 +20,7 @@ Since my tendency is to be a fun, silly guy I decided to first give a bio that s
 
 Naturally, that wasn’t used. A much more professional and a business-like text was sent. However, it was fun to just cut loose.
 
-So what is the real version? Who is Tadd Mencer, really?
+So what is the real version? Who is Thaddius Lord, really?
 
 I’m a creative developer who has worn many hats in his professional career. If I was to list them out ... well, let’s let's just say this would be a very boring list!
 
@@ -32,7 +32,7 @@ Most would say I’m an all around nerdy guy. I’m an introvert, but you get me
 
 I love all things fantasy and adventure. So yes, I love playing Dungeons & Dragons, video games (particularly games with great story), and table top games. 
 
-I am Tadd.
+I am Thaddius.
 
 Hi.
 
