@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: 'true'
-published: false
+published: true
 title: Write Box - A podcast
 feature: WRITE BOX.jpg
 ---
