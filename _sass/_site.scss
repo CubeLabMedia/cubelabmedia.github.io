@@ -5,6 +5,7 @@
 .site-header{
 
     text-align: center;
+    background: rgba(0,0,0,0.5);
 
     .wrapper{
 
@@ -63,8 +64,8 @@
 }
 
 .navigation {
+  padding: 0;
   color: #f5f5f5;
-  background: rgba(0,0,0,0.5);
   
   ul {
     margin: 0;
@@ -215,4 +216,19 @@
         margin: $spacing-unit 2%;
         width: 96%;
     }
+    
+}
+
+@media (max-width: 640px){
+  .navigation {
+    padding-bottom: 10px;
+    
+    ul {
+      
+      li{
+        display: block;
+        
+      }
+    }
+  }
 }
