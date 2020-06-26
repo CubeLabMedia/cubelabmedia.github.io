@@ -46,15 +46,18 @@ Why yes, I do! Black_Hole50 and I are working on a Terraria series for [The LabC
 
 ### Other stuff
 
-*Games*
+#### Games
+
 I had always wanted to make video games. But the harder I tried, the more I realized it wasn't going to happen. Making games is hard, ya'll! I don't have time to dedicate to create the things I want right now. So until more time and resources are found, I have to put those on hold. 
 
-*Videos*
+#### Videos
+
 The schedule for the [YouTube videos](https://www.youtube.com/channel/UCYSbcyKZzInT2A-QbMVY3lw){:target="_blank"} was originally twice a week. As the world devolved into chaos, I've stopped posting. There was a lot of noise out there, and I didn't really feel like itu was a good time to post. Black lives do matter, and I wanted the focus to be on the racism in the world, not my gameplay videos.
 
 However, in July I'll start posting every Monday a Minecraft video. Once Black_Hole50 and I get several episodes of Terraria under our belt, I'll put those on Thursday. 
 
-*Anything else?*
+#### Anything else?
+
 This world had gone crazy. From a pandemic to looting and riots to natural disasters to murder hornets and sniper monkeys. It's just insane. CubeLab Media has always been, and always will be, a place that strives to build up a positive and friendly community. So if you want to be a part of this community, subscribe to the YouTube channel. Share our videos. Help us build positive, family friendly, and _hopefully_ entertaining content! The only way to change the world for good is to be the good you want to see. And that's what we want to be.
 
 ### In closing ...
