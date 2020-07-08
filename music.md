@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Thte Music Makers
+title: The Music Makers
 permalink: /music/
 ---
+(this page is under heavy construction.)
 
 ## GreyHalo
 Music created by founder, Thaddius Lord. 
