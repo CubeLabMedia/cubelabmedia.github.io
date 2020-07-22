@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: 'true'
-published: false
+published: true
 title: Website updates
 feature: website-update-62020.jpg
 ---
