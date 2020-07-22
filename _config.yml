@@ -1,70 +1,32 @@
-title: CubeLab Media
-webowner: Thaddius Lord
-email: thaddius@cubelabmedia.com
-description: From the mind of Thaddius Lord <br> Creative writer, video gamer, blogger, Dungeons & Dragons player, multi-hat wearer, husband, father. Fairly nice guy.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cubelabmedia.com" # the base hostname & protocol for your site, e.g. http://example.com
-author: Thaddius
-twitter_username: taddmencer
-
-social:
-  name: Thaddius Lord | CubeLab Media
-  links:
-    - https://twitter.com/cubelabmedia
-    - https://www.facebook.com/cubelabmedia
+title: uBuild Design Blocks
+author: Forestry.io
+email: support@forestry.io
+description: >-
+  ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature.
+  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI
+  that will empower content editors to construct their own webpages.
+baseurl: "/ubuild-jekyll" # the subpath of your site, e.g. /blog
+url: "" # your site's origin, e.g. https://forestry.io
 
 # Build settings
-markdown: kramdown
-gems:
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default" # this ensures all content renders with layouts/default.html
+
+plugins:
   - jekyll-feed
-  - jekyll-youtube
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  - jekyll-menus
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-
-# Prose.io settings
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://cubelabmedia.com'
-  media: 'images'
-  ignore:
-    - index.md
-    - _config.yml
-    - CNAME
-    - Gamefile
-    - Gemfile.lock
-    - readme.md
-    - /_layouts
-    - /_includes
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Post title"
-          placeholder: "Title"
-          alterable: true
-      - name: "feature"
-        field:
-          element: "text"
-          label: "Add Feature Image to Post"
-          placeholder: "Image path (relative to /assets/featured-image/)"
-          alterable: true
-      - name: "comments"
-        field:
-          element: "text"
-          label: "Enable/Disable Comments"
-          placeholder: "Select (default Enabled)"
-          value: "true"
-          options:
-            - name: "Enable"
-              value: "true"
-            - name: "Disable"
-              value: "false"
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
