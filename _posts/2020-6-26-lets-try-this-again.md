@@ -38,7 +38,7 @@ I'm building a website to help promote this endevour, and I already have 4 songs
 
 ### Samurai who?
 
-Ok, that's a name you've never heard! Samurai Owl is the online name my eldest uses to promote his own brand. He's also a [musician]{https://samuraiowl.bandcamp.com/}{:target="_blank"} and makes [gaming videos](https://www.youtube.com/channel/UCyK0IxH_ZJEcmXJOnN-iF3A){:target="_blank"}. He's become part of the CLM Family, though he really doesn't need my help. However, he's graciously game on board to help out, join in some co-endevours, and pretty much be a stand up guy.
+Ok, that's a name you've never heard! Samurai Owl is the online name my eldest uses to promote his own brand. He's also a [musician](https://samuraiowl.bandcamp.com/){:target="_blank"} and makes [gaming videos](https://www.youtube.com/channel/UCyK0IxH_ZJEcmXJOnN-iF3A){:target="_blank"}. He's become part of the CLM Family, though he really doesn't need my help. However, he's graciously game on board to help out, join in some co-endevours, and pretty much be a stand up guy.
 
 ### Don't you have other kids?
 
