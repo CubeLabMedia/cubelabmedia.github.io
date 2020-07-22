@@ -59,6 +59,10 @@
         }
 
     }
+
+    a.icon {
+      display: none;
+    }
 }
 
 .navigation {
@@ -218,10 +222,23 @@
 }
 
 @media (max-width: 640px){
+  .site-header {
+    a.icon {
+      background: black;
+      display: block;
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+  }
+
   .navigation {
     padding-bottom: 10px;
+    overflow: hidden;
+    position: relative;
     
     ul {
+      display: none;
       
       li{
         display: block;
